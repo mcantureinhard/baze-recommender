@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-	"pill-recommender/service/src/recommendation"
+	"pill-recommender/recommendation"
 
 	"github.com/gorilla/handlers"
 )
